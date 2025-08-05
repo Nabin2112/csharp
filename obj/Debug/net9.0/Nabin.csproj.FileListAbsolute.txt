@@ -12,3 +12,4 @@ d:\Nabin\obj\Debug\net9.0\refint\Nabin.dll
 d:\Nabin\obj\Debug\net9.0\Nabin.pdb
 D:\Nabin\obj\Debug\net9.0\Nabin.genruntimeconfig.cache
 D:\Nabin\obj\Debug\net9.0\ref\Nabin.dll
+D:\Nabin\obj\Debug\net9.0\Nabin.sourcelink.json
