@@ -1,0 +1,14 @@
+d:\Nabin\bin\Debug\net9.0\Nabin.exe
+D:\Nabin\bin\Debug\net9.0\Nabin.deps.json
+D:\Nabin\bin\Debug\net9.0\Nabin.runtimeconfig.json
+d:\Nabin\bin\Debug\net9.0\Nabin.dll
+d:\Nabin\bin\Debug\net9.0\Nabin.pdb
+d:\Nabin\obj\Debug\net9.0\Nabin.GeneratedMSBuildEditorConfig.editorconfig
+d:\Nabin\obj\Debug\net9.0\Nabin.AssemblyInfoInputs.cache
+d:\Nabin\obj\Debug\net9.0\Nabin.AssemblyInfo.cs
+d:\Nabin\obj\Debug\net9.0\Nabin.csproj.CoreCompileInputs.cache
+d:\Nabin\obj\Debug\net9.0\Nabin.dll
+d:\Nabin\obj\Debug\net9.0\refint\Nabin.dll
+d:\Nabin\obj\Debug\net9.0\Nabin.pdb
+D:\Nabin\obj\Debug\net9.0\Nabin.genruntimeconfig.cache
+D:\Nabin\obj\Debug\net9.0\ref\Nabin.dll
