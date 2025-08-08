@@ -9,7 +9,7 @@ public class Calculator
         double num1 = Convert.ToDouble(Console.ReadLine());
         double num2 = Convert.ToDouble(Console.ReadLine());
         Console.WriteLine("Enter an operator '+','-','*','/'");
-        Char opr = Char.Parse(Console.ReadLine());
+      char opr = Char.Parse(Console.ReadLine());
 
         double result = 0;
         switch (opr)
