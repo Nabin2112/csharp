@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Nabin")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b966c332f0ac94a42dca11cbb320108f274861b4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e607a8c18772fa3523ebdd85344f1aa62c70b08d")]
 [assembly: System.Reflection.AssemblyProductAttribute("Nabin")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Nabin")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

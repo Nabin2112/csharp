@@ -12,7 +12,7 @@ class Factorial
         int i = 1;
         while (i <= num)
         {
-            fact *= i;
+            fact*=i;
             i++;
         }
         Console.WriteLine($"the factorial of {num} is{fact}");

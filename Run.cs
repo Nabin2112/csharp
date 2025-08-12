@@ -14,11 +14,11 @@ namespace CSharp
             //obj.Cal();
 
             // Pattern11 obj = new Pattern11();
-            // Calculatoor.CalculatoorFun();
-            // Factorial.FactorialFucn();
-            // Pattern11.PatternFunction();
-            Multiply.MulFunc();
-       
+            //Calculatoor.CalculatoorFun();
+            //Factorial.FactorialFucn();
+            //Pattern11.PatternFunction();
+            //Multiply.MulFunc();
+            Student.StudenFun();
 
             
         }
