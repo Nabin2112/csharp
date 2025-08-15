@@ -18,7 +18,9 @@ namespace CSharp
             //Factorial.FactorialFucn();
             //Pattern11.PatternFunction();
             //Multiply.MulFunc();
-            Student.StudenFun();
+            //Student.StudenFun();
+            //Nstudent.SteFun();
+            Trisum.Tri();
 
             
         }

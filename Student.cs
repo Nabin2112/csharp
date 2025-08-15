@@ -9,16 +9,17 @@ class Student
         String name = Console.ReadLine();
         double marks;
         Double sum = 0;
-        Double avg;
-        for (int i = 1; i<=5; i++)
+        Double average;
+        for (int i = 1; i <= 5; i++)
         {
             Console.WriteLine("Enters Subjects Marks:");
             marks = Convert.ToDouble(Console.ReadLine());
-            sum += marks;
+            sum = sum + marks;
         }
-        avg = sum / 5;
-        Console.WriteLine($"The average is {avg}");
-        double gpa = avg / 25;
-        Console.WriteLine($"The GPA is {gpa}");
+        average = sum / 5;
+        Console.WriteLine("The average is:" + average);
+        double gpa = average / 25;
+        Console.WriteLine("The GPA is:" + gpa);
+        
     }
 }                                                                                                                   
