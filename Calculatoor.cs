@@ -7,7 +7,7 @@ class Calculatoor
     {
         while (true)
         {
-            Console.WriteLine("\n Simple Calcu");
+            Console.WriteLine("\n Simple Calculator:");
             Console.WriteLine("Enter first Number:");
             double a = Convert.ToDouble(Console.ReadLine());
 
